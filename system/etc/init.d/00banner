@@ -1,0 +1,10 @@
+#!/system/bin/sh
+#
+# Print startup info
+#
+L="log -p i -t Meizu"
+
+$L "_    _  ___ ___  ___ _  _";
+$L "|\  /| |___  |    /  |  |";
+$L "| \/ | |___ _|_  /__ |__|";
+$L "Welcome to Android `getprop ro.build.version.release";
